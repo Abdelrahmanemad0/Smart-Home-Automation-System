@@ -1,0 +1,18 @@
+# Secrets
+firmware/esp32/config.h
+
+# Arduino / PlatformIO build artifacts
+*.o
+firmware/esp32/build/
+.pio/
+
+# MPLAB X build artifacts
+*.d
+*.p1
+dist/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
